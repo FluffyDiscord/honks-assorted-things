@@ -13,7 +13,7 @@ data:extend{
     {
         type = "item",
         name = "high-density-alloy",
-        icon = "__base__/graphics/icons/part-heavy-cladding.png",
+        icon = "__honks-assorted-things__/graphics/icons/part-heavy-cladding.png",
         icon_size = 64,
         subgroup = "intermediate-product",
         order = "g[high-density-alloy]",
