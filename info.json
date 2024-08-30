@@ -1,0 +1,9 @@
+{
+    "name": "honks-assorted-things",
+    "version": "0.0.1",
+    "title": "Honks Assorted Things",
+    "author": "Honk",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Random stuff I want to add.\n\nCurrently adds alternative low density structure recipe with two new intermediates that does not require tons of copper."
+  }
